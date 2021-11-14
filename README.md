@@ -1,4 +1,6 @@
 # Spotify Volume Control
+Modified version of Marcin's script to control Spotify volume
+
 Requires pactl (pulseaudio-utils on Fedora)
 
 Raise volume 10%
@@ -7,7 +9,7 @@ spotifyvctl.py raise 10
 ```
 Lower volume 5%
 ```
-spotifyvctl.py lower 10
+spotifyvctl.py lower 5
 ```
 
 
