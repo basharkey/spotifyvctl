@@ -2,8 +2,8 @@
 # Modified version of Marcin's script adding command line arguments
 
 # Original author: Marcin Kocur
+# Original source: https://wiki.archlinux.org/title/Spotify#Global_media_hotkeys 
 # Attribution license: https://creativecommons.org/licenses/by/4.0/
-# Source: https://wiki.archlinux.org/title/Spotify#Global_media_hotkeys 
 
 import subprocess
 import os
